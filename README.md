@@ -109,22 +109,20 @@ Sou **Caio Duboviski** (*Caio Duboviski Beribá*), graduando e pesquisador em **
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=github-dark-blue">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default">
-    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default" height="175">
+    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default" height="150">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default">
-    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default" height="175">
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default" height="150">
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/output/github-snake.svg">
-    <img alt="GitHub Snake contribution animation" src="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/output/github-snake.svg">
-  </picture>
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ---
 
