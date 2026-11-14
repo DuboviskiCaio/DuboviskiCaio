@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="" />
+  <img src=".github/workflows/caio-duboviski-banner-cube.gif" />
 </p>
 </h3>
 
