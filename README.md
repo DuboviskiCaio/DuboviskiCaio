@@ -21,7 +21,7 @@
 
 ## 🇺🇸 About Me
 
-I'm **Caio Duboviski** (*Caio Duboviski Beribá*), an undergraduate student and researcher in **Artificial Intelligence and Software Engineering (AISE)** at the Federal University of Paraná (UFPR), Brazil. I'm a **Full-Stack Developer** with a strong focus on front-end development, passionate about artificial intelligence, software engineering, and building innovative digital products.
+I'm **Caio Duboviski** (*Caio Duboviski Beribá*), an undergraduate student and researcher in **Artificial Intelligence and Software Engineering (IAES)** at the Federal University of Paraná (UFPR), Brazil. I'm a **Full-Stack Developer** with a strong focus on front-end development, passionate about artificial intelligence, software engineering, and building innovative digital products.
 
 - 🔬 **Research (2026–Present):** My research focuses on **integrating LLM-based multi-agent systems into the software development lifecycle**, exploring intelligent agents for code generation, review, and debugging. **Fundação Araucária (PIBITI)**
 
