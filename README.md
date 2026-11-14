@@ -120,9 +120,9 @@ Sou **Caio Duboviski** (*Caio Duboviski Beribá*), graduando e pesquisador em **
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/snake-output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/snake-output/github-snake.svg">
-    <img alt="GitHub Snake contribution animation" src="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/snake-output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/output/github-snake.svg">
+    <img alt="GitHub Snake contribution animation" src="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/output/github-snake.svg">
   </picture>
 </p>
 
