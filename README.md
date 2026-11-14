@@ -107,28 +107,22 @@ Sou **Caio Duboviski** (*Caio Duboviski Beribá*), graduando e pesquisador em **
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=StaffeToxic&theme=github-dark-blue">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=StaffeToxic&theme=default">
-    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=StaffeToxic&theme=default" height="175">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=github-dark-blue">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default">
+    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default" height="175">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=StaffeToxic&layout=compact&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=StaffeToxic&layout=compact&theme=default">
-    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=StaffeToxic&layout=compact&theme=default" height="175">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default">
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default" height="175">
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StaffeToxic/StaffeToxic/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StaffeToxic/StaffeToxic/output/github-snake.svg">
-    <img alt="GitHub Snake contribution animation" src="https://raw.githubusercontent.com/StaffeToxic/StaffeToxic/output/github-snake.svg">
-  </picture>
-</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/duboviskicaio/duboviskicaio/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
 <p align="center">
-  Get in touch via <a href="https://www.linkedin.com/in/anthony-oliveira-07327a250/">LinkedIn</a> or <a href="http://lattes.cnpq.br/0461010539011870">Lattes</a><br>
-  © 2026 Anthony Oliveira
+  Get in touch via <a href="https://www.linkedin.com/in/caioduboviskiberiba">LinkedIn</a> or <a href="https://duboviski-site.vercel.app/">Portfolio</a><br>
+  © 2026 Caio Duboviski
 </p>
