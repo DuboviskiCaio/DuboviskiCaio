@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="" />
+  <img src=".github/workflows/Caio_Duboviski_Blue_Neon_1280x320.gif" />
 </p>
 </h3>
 
