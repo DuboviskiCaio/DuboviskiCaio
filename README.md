@@ -109,12 +109,12 @@ Sou **Caio Duboviski** (*Caio Duboviski Beribá*), graduando e pesquisador em **
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=github-dark-blue">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default">
-    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default" height="150">
+    <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=DuboviskiCaio&theme=default" height="175">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default">
-    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default" height="150">
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DuboviskiCaio&layout=compact&theme=default" height="175">
   </picture>
 </p>
 
